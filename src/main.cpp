@@ -1,5 +1,5 @@
 /*
-  VSCode: Font Sizes Terminals: "C:\Users\jschw\AppData\Roaming\Code\User\settings.json"
+  VSCode: Font Sizes Terminals: "C:\Users\juergs\AppData\Roaming\Code\User\settings.json"
 
   Origin:  https://github.com/VolosR/BreadboardTTGOS3/blob/main/BreadboardTTGOS3.ino
 
